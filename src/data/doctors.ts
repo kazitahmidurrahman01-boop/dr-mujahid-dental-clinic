@@ -44,7 +44,8 @@ export const doctors: Doctor[] = [
     specialization: 'Oral & Maxillofacial Surgeon',
     bmdc: '6442',
     bio: 'Specialist in oral and maxillofacial surgery with post-graduate qualification from CMH Dhaka, specialized training at BIRDEM, and advanced implantology expertise.',
-    photoPlaceholder: true,
+    photoPlaceholder: false,
+    photoUrl: '/images/doctor-rumana.webp',
   },
   {
     id: 3,
